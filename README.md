@@ -43,7 +43,7 @@ The primary objective of this project are as follows:
     
 ### Insights
   - Identify high and low-usage stations and their neighborhood trends:
-    According to top 5 stations by ride start bar chart, Station C and F has highest usage with 31 ride counts whereas Stations M has lowest usage with 14 ride counts. When you filter the bar chart by using neighbourhood slicer it shows in Downtown neighbourhood Station C has highest usage. So basically       Station C in downtown and Station F in westside has highest usage, as population living in downtown prefer to use bikes over cars.
+    According to top 5 stations by ride start bar chart, Station C and F has highest usage with 31 ride counts whereas Stations M has lowest usage with 14 ride counts. When you filter the bar chart by using neighbourhood slicer it shows in Downtown neighbourhood Station C has highest usage. So basically Station C in downtown and Station F in westside has highest usage, as population living in downtown prefer to use bikes over cars.
     <img width="395" height="258" alt="Screenshot 2025-09-13 211653" src="https://github.com/user-attachments/assets/86d9ea35-158f-45ec-a0af-354b601f31f1" />
     
   - Analyze how temperature and precipitation affect ride volume:
@@ -54,10 +54,13 @@ The primary objective of this project are as follows:
     <img width="400" height="165" alt="Screenshot 2025-09-13 211849" src="https://github.com/user-attachments/assets/4dc6dc41-2f27-42b5-9437-e26c7764c197" />
 
   - Compare average ride duration by MembershipType and age group:
-    According to average ride duration kpi card if you filter by membership type it shows highest durations is 33 minutes with annual and monthly membership type. According to line chart age group 18-25 has highest average ride duration i.e. 38 for annual, 35 for monthly, and 34 for pay-per-ride               membership type.
+    According to average ride duration kpi card if you filter by membership type it shows highest durations is 33 minutes with annual and monthly membership type. According to line chart age group 18-25 has highest average ride duration i.e. 38 for annual, 35 for monthly, and 34 for pay-per-ride membership type.
     <img width="407" height="268" alt="Screenshot 2025-09-13 211947" src="https://github.com/user-attachments/assets/bc3c9363-b264-4109-9c7d-4a9d025472fe" />
 
   - Identify stations with low capacity utilization:
-    According to Station utilization table chart, all stations have utilization ration more than 1 which means none of station is empty or balance but are over utilized with maximum of 4.9 utilization ration of station C. May be increase docking facility in overused stations can help to balance the            capacity by total rides per station. Also may be making new station in high demand neighbourhoods can help in rebalancing.
+    According to Station utilization table chart, all stations have utilization ration more than 1 which means none of station is empty or balance but are over utilized with maximum of 4.9 utilization ration of station C. May be increase docking facility in     overused stations can help to balance the capacity by total rides per station. Also may be making new station in high demand neighbourhoods can help in rebalancing.
+    
     <img width="418" height="501" alt="Screenshot 2025-09-13 211405" src="https://github.com/user-attachments/assets/f759b2e1-a034-44f7-b332-111c8111480c" />
 
+#### Note
+    Check the files section for the Power BI file and datasets
